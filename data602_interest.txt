@@ -1,3 +1,0 @@
-Why are you interested in taking DATA602?
-
-I am interested in taking DATA602 because I want to improve my skills in data analysis and preprocessing, as well as evaluating ML models. Real-world data is often messy or incomplete, and requires important cleaning and preprocessing steps prior to analysis or training. I also want to better understand how to evaluate ML models and determine whether their performance is meaningful and reliable. Developing these skills will allow me to gain more confidence working with real-world datasets and building effective data science solutions.
